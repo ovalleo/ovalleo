@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ovalleo
+- 👋 Hi, I’m Oscar (@ovalleo)
 - 👀 I’m interested in computer science for material science and chemical engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Machine Learning
